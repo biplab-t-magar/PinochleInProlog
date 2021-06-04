@@ -12,3 +12,6 @@ likewise obtain hints (along with reasonings) from the AI as to what card to pla
 2)	Enter “swipl” into the terminal and press enter
 3)	Enter “[pinochle].” into the terminal and press enter
 4)	Enter “start_game.” to start the game
+
+Read manual for more details and visual guides
+
